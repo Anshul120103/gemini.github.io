@@ -1,2 +1,2 @@
-# gemini.github.io
+# gemius.github.io
 A website
